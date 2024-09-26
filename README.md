@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![jamiemcg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiemcg&show_icons=true&theme=transparent&hide_rank=True)
 
 <!--
 **jamiemcg/jamiemcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
